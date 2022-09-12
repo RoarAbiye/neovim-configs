@@ -56,5 +56,5 @@ return require('packer').startup(function(use)
     config = function() require("nvim-autopairs").setup {} end
   }
   use 'tpope/vim-fugitive'
-  use 'tpope/vim-fugitive'
+  use 'norcalli/nvim-colorizer.lua'
 end)
