@@ -1,0 +1,7 @@
+require"robel.set"
+require"robel.packer"
+require"robel.maps"
+require"robel.compl"
+require"robel.snip"
+require"robel.nvimtree"
+-- require"robel.status"
